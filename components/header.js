@@ -16,7 +16,6 @@ const Header = () => (
 					<NavDropdown title="Reports" id="collasible-nav-dropdown">
 						<NavDropdown.Item href="/weather/current">Current Report</NavDropdown.Item>
 						<NavDropdown.Item href="/weather/hourly">Hourly Report</NavDropdown.Item>
-						<NavDropdown.Item href="/weather/days">Days Forecast</NavDropdown.Item>
 					</NavDropdown>
 				</Nav>
 			</Navbar.Collapse>
