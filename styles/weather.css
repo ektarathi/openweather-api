@@ -1,0 +1,52 @@
+.weather-description {
+    width: 100%;
+    flex-basis: auto;
+    background-position: center;
+    background-size: contain;
+    min-height: 280px;
+  }
+  
+  .display-data {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .radio-buttons {
+    width: 100%;
+    text-align: center;
+    margin-bottom: .5rem;
+  }
+
+  .clouds {
+    background: url('../public/Images/cloudy.png');
+  }
+  
+  .thunderstorm {
+    background: url('../public/Images/thunderstorm.png');
+  }
+  
+  .rain {
+    background: url('../public/Images/rain.png');
+  }
+  
+  .snow {
+    background: url('../public/Images/snow.png');
+  }
+  
+  .drizzle {
+    background: url('../public/Images/drizzle.jpg');
+  }
+  
+  .extreme {
+    background: url('../public/Images/extreme.jpg');
+  }
+  
+  .sunny {
+    background: url('../public/Images/sunny.png');
+  }
+  
+  .clear {
+    background: url('../public/Images/Clear.jpg');
+    background-size: cover;
+  }

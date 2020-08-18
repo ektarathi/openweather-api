@@ -1,2 +1,1 @@
-# openweather-api
-A sample project for displaying weather forecast using Next JS
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
